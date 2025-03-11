@@ -1,10 +1,10 @@
 ---
 layout: default
-title: E-Prime Quick Start
+title: NetStation Troubleshooting
 long_title: Troubleshooting Common Errors in NetStation
 categories: netstation
 parent: NetStation
-nav_order: 2
+nav_order: 1
 ---
 
 ## Ezra Brain Dump to be Sorted into Wiki:
