@@ -6,3 +6,6 @@ categories: what-is-eeg
 parent: What Is EEG?
 nav_order: 1
 ---
+
+## What is EEG?
+*more information will go here.*
